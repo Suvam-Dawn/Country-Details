@@ -1,0 +1,2150 @@
+{ 
+    "country" : "Afghanistan", 
+    "language" : [
+        "Balochi", 
+        "Dari", 
+        "Pashto", 
+        "Turkmenian", 
+        "Uzbek"
+    ]
+}
+{ 
+    "country" : "Albania", 
+    "language" : [
+        "Albaniana", 
+        "Greek", 
+        "Macedonian"
+    ]
+}
+{ 
+    "country" : "Algeria", 
+    "language" : [
+        "Arabic", 
+        "Berberi"
+    ]
+}
+{ 
+    "country" : "American Samoa", 
+    "language" : [
+        "English", 
+        "Samoan", 
+        "Tongan"
+    ]
+}
+{ 
+    "country" : "Andorra", 
+    "language" : [
+        "Catalan", 
+        "French", 
+        "Portuguese", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Angola", 
+    "language" : [
+        "Ambo", 
+        "Chokwe", 
+        "Kongo", 
+        "Luchazi", 
+        "Luimbe-nganguela", 
+        "Luvale", 
+        "Mbundu", 
+        "Nyaneka-nkhumbi", 
+        "Ovimbundu"
+    ]
+}
+{ 
+    "country" : "Anguilla", 
+    "language" : [
+        "English"
+    ]
+}
+{ 
+    "country" : "Antigua and Barbuda", 
+    "language" : [
+        "Creole English", 
+        "English"
+    ]
+}
+{ 
+    "country" : "Argentina", 
+    "language" : [
+        "Indian Languages", 
+        "Italian", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Armenia", 
+    "language" : [
+        "Armenian", 
+        "Azerbaijani"
+    ]
+}
+{ 
+    "country" : "Aruba", 
+    "language" : [
+        "Dutch", 
+        "English", 
+        "Papiamento", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Australia", 
+    "language" : [
+        "Arabic", 
+        "Canton Chinese", 
+        "English", 
+        "German", 
+        "Greek", 
+        "Italian", 
+        "Serbo-Croatian", 
+        "Vietnamese"
+    ]
+}
+{ 
+    "country" : "Austria", 
+    "language" : [
+        "Czech", 
+        "German", 
+        "Hungarian", 
+        "Polish", 
+        "Romanian", 
+        "Serbo-Croatian", 
+        "Slovene", 
+        "Turkish"
+    ]
+}
+{ 
+    "country" : "Azerbaijan", 
+    "language" : [
+        "Armenian", 
+        "Azerbaijani", 
+        "Lezgian", 
+        "Russian"
+    ]
+}
+{ 
+    "country" : "Bahamas", 
+    "language" : [
+        "Creole English", 
+        "Creole French"
+    ]
+}
+{ 
+    "country" : "Bahrain", 
+    "language" : [
+        "Arabic", 
+        "English"
+    ]
+}
+{ 
+    "country" : "Bangladesh", 
+    "language" : [
+        "Bengali", 
+        "Chakma", 
+        "Garo", 
+        "Khasi", 
+        "Marma", 
+        "Santhali", 
+        "Tripuri"
+    ]
+}
+{ 
+    "country" : "Barbados", 
+    "language" : [
+        "Bajan", 
+        "English"
+    ]
+}
+{ 
+    "country" : "Belarus", 
+    "language" : [
+        "Belorussian", 
+        "Polish", 
+        "Russian", 
+        "Ukrainian"
+    ]
+}
+{ 
+    "country" : "Belgium", 
+    "language" : [
+        "Arabic", 
+        "Dutch", 
+        "French", 
+        "German", 
+        "Italian", 
+        "Turkish"
+    ]
+}
+{ 
+    "country" : "Belize", 
+    "language" : [
+        "English", 
+        "Garifuna", 
+        "Maya Languages", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Benin", 
+    "language" : [
+        "Adja", 
+        "Aizo", 
+        "Bariba", 
+        "Fon", 
+        "Ful", 
+        "Joruba", 
+        "Somba"
+    ]
+}
+{ 
+    "country" : "Bermuda", 
+    "language" : [
+        "English"
+    ]
+}
+{ 
+    "country" : "Bhutan", 
+    "language" : [
+        "Asami", 
+        "Dzongkha", 
+        "Nepali"
+    ]
+}
+{ 
+    "country" : "Bolivia", 
+    "language" : [
+        "Aimará", 
+        "Guaraní", 
+        "Ket\u009aua", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Bosnia and Herzegovina", 
+    "language" : [
+        "Bosnian"
+    ]
+}
+{ 
+    "country" : "Botswana", 
+    "language" : [
+        "Khoekhoe", 
+        "Ndebele", 
+        "San", 
+        "Shona", 
+        "Tswana"
+    ]
+}
+{ 
+    "country" : "Brazil", 
+    "language" : [
+        "German", 
+        "Indian Languages", 
+        "Italian", 
+        "Japanese", 
+        "Portuguese"
+    ]
+}
+{ 
+    "country" : "Brunei", 
+    "language" : [
+        "Chinese", 
+        "English", 
+        "Malay", 
+        "Malay-English"
+    ]
+}
+{ 
+    "country" : "Bulgaria", 
+    "language" : [
+        "Bulgariana", 
+        "Macedonian", 
+        "Romani", 
+        "Turkish"
+    ]
+}
+{ 
+    "country" : "Burkina Faso", 
+    "language" : [
+        "Busansi", 
+        "Dagara", 
+        "Dyula", 
+        "Ful", 
+        "Gurma", 
+        "Mossi"
+    ]
+}
+{ 
+    "country" : "Burundi", 
+    "language" : [
+        "French", 
+        "Kirundi", 
+        "Swahili"
+    ]
+}
+{ 
+    "country" : "Cambodia", 
+    "language" : [
+        "Chinese", 
+        "Khmer", 
+        "T\u009aam", 
+        "Vietnamese"
+    ]
+}
+{ 
+    "country" : "Cameroon", 
+    "language" : [
+        "Bamileke-bamum", 
+        "Duala", 
+        "Fang", 
+        "Ful", 
+        "Maka", 
+        "Mandara", 
+        "Masana", 
+        "Tikar"
+    ]
+}
+{ 
+    "country" : "Canada", 
+    "language" : [
+        "Chinese", 
+        "Dutch", 
+        "English", 
+        "Eskimo Languages", 
+        "French", 
+        "German", 
+        "Italian", 
+        "Polish", 
+        "Portuguese", 
+        "Punjabi", 
+        "Spanish", 
+        "Ukrainian"
+    ]
+}
+{ 
+    "country" : "Cape Verde", 
+    "language" : [
+        "Crioulo", 
+        "Portuguese"
+    ]
+}
+{ 
+    "country" : "Cayman Islands", 
+    "language" : [
+        "English"
+    ]
+}
+{ 
+    "country" : "Central African Republic", 
+    "language" : [
+        "Banda", 
+        "Gbaya", 
+        "Mandjia", 
+        "Mbum", 
+        "Ngbaka", 
+        "Sara"
+    ]
+}
+{ 
+    "country" : "Chad", 
+    "language" : [
+        "Arabic", 
+        "Gorane", 
+        "Hadjarai", 
+        "Kanem-bornu", 
+        "Mayo-kebbi", 
+        "Ouaddai", 
+        "Sara", 
+        "Tandjile"
+    ]
+}
+{ 
+    "country" : "Chile", 
+    "language" : [
+        "Aimará", 
+        "Araucan", 
+        "Rapa nui", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "China", 
+    "language" : [
+        "Chinese", 
+        "Dong", 
+        "Hui", 
+        "Mant\u009au", 
+        "Miao", 
+        "Mongolian", 
+        "Puyi", 
+        "Tibetan", 
+        "Tujia", 
+        "Uighur", 
+        "Yi", 
+        "Zhuang"
+    ]
+}
+{ 
+    "country" : "Christmas Island", 
+    "language" : [
+        "Chinese", 
+        "English"
+    ]
+}
+{ 
+    "country" : "Cocos (Keeling) Islands", 
+    "language" : [
+        "English", 
+        "Malay"
+    ]
+}
+{ 
+    "country" : "Colombia", 
+    "language" : [
+        "Arawakan", 
+        "Caribbean", 
+        "Chibcha", 
+        "Creole English", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Comoros", 
+    "language" : [
+        "Comorian", 
+        "Comorian-Arabic", 
+        "Comorian-French", 
+        "Comorian-madagassi", 
+        "Comorian-Swahili"
+    ]
+}
+{ 
+    "country" : "Congo", 
+    "language" : [
+        "Kongo", 
+        "Mbete", 
+        "Mboshi", 
+        "Punu", 
+        "Sango", 
+        "Teke"
+    ]
+}
+{ 
+    "country" : "Congo, The Democratic Republic of the", 
+    "language" : [
+        "Boa", 
+        "Chokwe", 
+        "Kongo", 
+        "Luba", 
+        "Mongo", 
+        "Ngala and Bangi", 
+        "Rundi", 
+        "Rwanda", 
+        "Teke", 
+        "Zande"
+    ]
+}
+{ 
+    "country" : "Cook Islands", 
+    "language" : [
+        "English", 
+        "Maori"
+    ]
+}
+{ 
+    "country" : "Costa Rica", 
+    "language" : [
+        "Chibcha", 
+        "Chinese", 
+        "Creole English", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Croatia", 
+    "language" : [
+        "Serbo-Croatian", 
+        "Slovene"
+    ]
+}
+{ 
+    "country" : "Cuba", 
+    "language" : [
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Cyprus", 
+    "language" : [
+        "Greek", 
+        "Turkish"
+    ]
+}
+{ 
+    "country" : "Czech Republic", 
+    "language" : [
+        "Czech", 
+        "German", 
+        "Hungarian", 
+        "Moravian", 
+        "Polish", 
+        "Romani", 
+        "Silesiana", 
+        "Slovak"
+    ]
+}
+{ 
+    "country" : "Denmark", 
+    "language" : [
+        "Arabic", 
+        "Danish", 
+        "English", 
+        "German", 
+        "Norwegian", 
+        "Swedish", 
+        "Turkish"
+    ]
+}
+{ 
+    "country" : "Djibouti", 
+    "language" : [
+        "Afar", 
+        "Arabic", 
+        "Somali"
+    ]
+}
+{ 
+    "country" : "Dominica", 
+    "language" : [
+        "Creole English", 
+        "Creole French"
+    ]
+}
+{ 
+    "country" : "Dominican Republic", 
+    "language" : [
+        "Creole French", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "East Timor", 
+    "language" : [
+        "Portuguese", 
+        "Sunda"
+    ]
+}
+{ 
+    "country" : "Ecuador", 
+    "language" : [
+        "Ket\u009aua", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Egypt", 
+    "language" : [
+        "Arabic", 
+        "Sinaberberi"
+    ]
+}
+{ 
+    "country" : "El Salvador", 
+    "language" : [
+        "Nahua", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Equatorial Guinea", 
+    "language" : [
+        "Bubi", 
+        "Fang"
+    ]
+}
+{ 
+    "country" : "Eritrea", 
+    "language" : [
+        "Afar", 
+        "Bilin", 
+        "Hadareb", 
+        "Saho", 
+        "Tigre", 
+        "Tigrigna"
+    ]
+}
+{ 
+    "country" : "Estonia", 
+    "language" : [
+        "Belorussian", 
+        "Estonian", 
+        "Finnish", 
+        "Russian", 
+        "Ukrainian"
+    ]
+}
+{ 
+    "country" : "Ethiopia", 
+    "language" : [
+        "Amharic", 
+        "Gurage", 
+        "Oromo", 
+        "Sidamo", 
+        "Somali", 
+        "Tigrigna", 
+        "Walaita"
+    ]
+}
+{ 
+    "country" : "Falkland Islands", 
+    "language" : [
+        "English"
+    ]
+}
+{ 
+    "country" : "Faroe Islands", 
+    "language" : [
+        "Danish", 
+        "Faroese"
+    ]
+}
+{ 
+    "country" : "Fiji Islands", 
+    "language" : [
+        "Fijian", 
+        "Hindi"
+    ]
+}
+{ 
+    "country" : "Finland", 
+    "language" : [
+        "Estonian", 
+        "Finnish", 
+        "Russian", 
+        "Saame", 
+        "Swedish"
+    ]
+}
+{ 
+    "country" : "France", 
+    "language" : [
+        "Arabic", 
+        "French", 
+        "Italian", 
+        "Portuguese", 
+        "Spanish", 
+        "Turkish"
+    ]
+}
+{ 
+    "country" : "French Guiana", 
+    "language" : [
+        "Creole French", 
+        "Indian Languages"
+    ]
+}
+{ 
+    "country" : "French Polynesia", 
+    "language" : [
+        "Chinese", 
+        "French", 
+        "Tahitian"
+    ]
+}
+{ 
+    "country" : "Gabon", 
+    "language" : [
+        "Fang", 
+        "Mbete", 
+        "Mpongwe", 
+        "Punu-sira-nzebi"
+    ]
+}
+{ 
+    "country" : "Gambia", 
+    "language" : [
+        "Diola", 
+        "Ful", 
+        "Malinke", 
+        "Soninke", 
+        "Wolof"
+    ]
+}
+{ 
+    "country" : "Georgia", 
+    "language" : [
+        "Abhyasi", 
+        "Armenian", 
+        "Azerbaijani", 
+        "Georgiana", 
+        "Osseetti", 
+        "Russian"
+    ]
+}
+{ 
+    "country" : "Germany", 
+    "language" : [
+        "German", 
+        "Greek", 
+        "Italian", 
+        "Polish", 
+        "Southern Slavic Languages", 
+        "Turkish"
+    ]
+}
+{ 
+    "country" : "Ghana", 
+    "language" : [
+        "Akan", 
+        "Ewe", 
+        "Ga-adangme", 
+        "Gurma", 
+        "Joruba", 
+        "Mossi"
+    ]
+}
+{ 
+    "country" : "Gibraltar", 
+    "language" : [
+        "Arabic", 
+        "English"
+    ]
+}
+{ 
+    "country" : "Greece", 
+    "language" : [
+        "Greek", 
+        "Turkish"
+    ]
+}
+{ 
+    "country" : "Greenland", 
+    "language" : [
+        "Danish", 
+        "Greenlandic"
+    ]
+}
+{ 
+    "country" : "Grenada", 
+    "language" : [
+        "Creole English"
+    ]
+}
+{ 
+    "country" : "Guadeloupe", 
+    "language" : [
+        "Creole French", 
+        "French"
+    ]
+}
+{ 
+    "country" : "Guam", 
+    "language" : [
+        "Chamorro", 
+        "English", 
+        "Japanese", 
+        "Korean", 
+        "Philippene Languages"
+    ]
+}
+{ 
+    "country" : "Guatemala", 
+    "language" : [
+        "Cakchiquel", 
+        "Kekchí", 
+        "Mam", 
+        "Quiché", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Guinea", 
+    "language" : [
+        "Ful", 
+        "Kissi", 
+        "Kpelle", 
+        "Loma", 
+        "Malinke", 
+        "Susu", 
+        "Yalunka"
+    ]
+}
+{ 
+    "country" : "Guinea-Bissau", 
+    "language" : [
+        "Balante", 
+        "Crioulo", 
+        "Ful", 
+        "Malinke", 
+        "Mandyako", 
+        "Portuguese"
+    ]
+}
+{ 
+    "country" : "Guyana", 
+    "language" : [
+        "Arawakan", 
+        "Caribbean", 
+        "Creole English"
+    ]
+}
+{ 
+    "country" : "Haiti", 
+    "language" : [
+        "French", 
+        "Haiti Creole"
+    ]
+}
+{ 
+    "country" : "Holy See (Vatican City State)", 
+    "language" : [
+        "Italian"
+    ]
+}
+{ 
+    "country" : "Honduras", 
+    "language" : [
+        "Creole English", 
+        "Garifuna", 
+        "Miskito", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Hong Kong", 
+    "language" : [
+        "Canton Chinese", 
+        "Chiu chau", 
+        "English", 
+        "Fukien", 
+        "Hakka"
+    ]
+}
+{ 
+    "country" : "Hungary", 
+    "language" : [
+        "German", 
+        "Hungarian", 
+        "Romani", 
+        "Romanian", 
+        "Serbo-Croatian", 
+        "Slovak"
+    ]
+}
+{ 
+    "country" : "Iceland", 
+    "language" : [
+        "English", 
+        "Icelandic"
+    ]
+}
+{ 
+    "country" : "India", 
+    "language" : [
+        "Asami", 
+        "Bengali", 
+        "Gujarati", 
+        "Hindi", 
+        "Kannada", 
+        "Malajalam", 
+        "Marathi", 
+        "Orija", 
+        "Punjabi", 
+        "Tamil", 
+        "Telugu", 
+        "Urdu"
+    ]
+}
+{ 
+    "country" : "Indonesia", 
+    "language" : [
+        "Bahasa", 
+        "Bali", 
+        "Banja", 
+        "Batakki", 
+        "Bugi", 
+        "Javanese", 
+        "Madura", 
+        "Malay", 
+        "Minangkabau", 
+        "Sunda"
+    ]
+}
+{ 
+    "country" : "Iran", 
+    "language" : [
+        "Arabic", 
+        "Azerbaijani", 
+        "Bakhtyari", 
+        "Balochi", 
+        "Gilaki", 
+        "Kurdish", 
+        "Luri", 
+        "Mazandarani", 
+        "Persian", 
+        "Turkmenian"
+    ]
+}
+{ 
+    "country" : "Iraq", 
+    "language" : [
+        "Arabic", 
+        "Assyrian", 
+        "Azerbaijani", 
+        "Kurdish", 
+        "Persian"
+    ]
+}
+{ 
+    "country" : "Ireland", 
+    "language" : [
+        "English", 
+        "Irish"
+    ]
+}
+{ 
+    "country" : "Israel", 
+    "language" : [
+        "Arabic", 
+        "Hebrew", 
+        "Russian"
+    ]
+}
+{ 
+    "country" : "Italy", 
+    "language" : [
+        "Albaniana", 
+        "French", 
+        "Friuli", 
+        "German", 
+        "Italian", 
+        "Romani", 
+        "Sardinian", 
+        "Slovene"
+    ]
+}
+{ 
+    "country" : "Ivory Coast", 
+    "language" : [
+        "Akan", 
+        "Gur", 
+        "Kru", 
+        "Malinke", 
+        "[South]Mande"
+    ]
+}
+{ 
+    "country" : "Jamaica", 
+    "language" : [
+        "Creole English", 
+        "Hindi"
+    ]
+}
+{ 
+    "country" : "Japan", 
+    "language" : [
+        "Ainu", 
+        "Chinese", 
+        "English", 
+        "Japanese", 
+        "Korean", 
+        "Philippene Languages"
+    ]
+}
+{ 
+    "country" : "Jordan", 
+    "language" : [
+        "Arabic", 
+        "Armenian", 
+        "Circassian"
+    ]
+}
+{ 
+    "country" : "Kazakhstan", 
+    "language" : [
+        "German", 
+        "Kazakh", 
+        "Russian", 
+        "Tatar", 
+        "Ukrainian", 
+        "Uzbek"
+    ]
+}
+{ 
+    "country" : "Kenya", 
+    "language" : [
+        "Gusii", 
+        "Kalenjin", 
+        "Kamba", 
+        "Kikuyu", 
+        "Luhya", 
+        "Luo", 
+        "Masai", 
+        "Meru", 
+        "Nyika", 
+        "Turkana"
+    ]
+}
+{ 
+    "country" : "Kiribati", 
+    "language" : [
+        "Kiribati", 
+        "Tuvalu"
+    ]
+}
+{ 
+    "country" : "Kuwait", 
+    "language" : [
+        "Arabic", 
+        "English"
+    ]
+}
+{ 
+    "country" : "Kyrgyzstan", 
+    "language" : [
+        "Kazakh", 
+        "Kirgiz", 
+        "Russian", 
+        "Tadzhik", 
+        "Tatar", 
+        "Ukrainian", 
+        "Uzbek"
+    ]
+}
+{ 
+    "country" : "Laos", 
+    "language" : [
+        "Lao", 
+        "Lao-Soung", 
+        "Mon-khmer", 
+        "Thai"
+    ]
+}
+{ 
+    "country" : "Latvia", 
+    "language" : [
+        "Belorussian", 
+        "Latvian", 
+        "Lithuanian", 
+        "Polish", 
+        "Russian", 
+        "Ukrainian"
+    ]
+}
+{ 
+    "country" : "Lebanon", 
+    "language" : [
+        "Arabic", 
+        "Armenian", 
+        "French"
+    ]
+}
+{ 
+    "country" : "Lesotho", 
+    "language" : [
+        "English", 
+        "Sotho", 
+        "Zulu"
+    ]
+}
+{ 
+    "country" : "Liberia", 
+    "language" : [
+        "Bassa", 
+        "Gio", 
+        "Grebo", 
+        "Kpelle", 
+        "Kru", 
+        "Loma", 
+        "Malinke", 
+        "Mano"
+    ]
+}
+{ 
+    "country" : "Libyan Arab Jamahiriya", 
+    "language" : [
+        "Arabic", 
+        "Berberi"
+    ]
+}
+{ 
+    "country" : "Liechtenstein", 
+    "language" : [
+        "German", 
+        "Italian", 
+        "Turkish"
+    ]
+}
+{ 
+    "country" : "Lithuania", 
+    "language" : [
+        "Belorussian", 
+        "Lithuanian", 
+        "Polish", 
+        "Russian", 
+        "Ukrainian"
+    ]
+}
+{ 
+    "country" : "Luxembourg", 
+    "language" : [
+        "French", 
+        "German", 
+        "Italian", 
+        "Luxembourgish", 
+        "Portuguese"
+    ]
+}
+{ 
+    "country" : "Macao", 
+    "language" : [
+        "Canton Chinese", 
+        "English", 
+        "Mandarin Chinese", 
+        "Portuguese"
+    ]
+}
+{ 
+    "country" : "Macedonia", 
+    "language" : [
+        "Albaniana", 
+        "Macedonian", 
+        "Romani", 
+        "Serbo-Croatian", 
+        "Turkish"
+    ]
+}
+{ 
+    "country" : "Madagascar", 
+    "language" : [
+        "French", 
+        "Malagasy"
+    ]
+}
+{ 
+    "country" : "Malawi", 
+    "language" : [
+        "Chichewa", 
+        "Lomwe", 
+        "Ngoni", 
+        "Yao"
+    ]
+}
+{ 
+    "country" : "Malaysia", 
+    "language" : [
+        "Chinese", 
+        "Dusun", 
+        "English", 
+        "Iban", 
+        "Malay", 
+        "Tamil"
+    ]
+}
+{ 
+    "country" : "Maldives", 
+    "language" : [
+        "Dhivehi", 
+        "English"
+    ]
+}
+{ 
+    "country" : "Mali", 
+    "language" : [
+        "Bambara", 
+        "Ful", 
+        "Senufo and Minianka", 
+        "Songhai", 
+        "Soninke", 
+        "Tamashek"
+    ]
+}
+{ 
+    "country" : "Malta", 
+    "language" : [
+        "English", 
+        "Maltese"
+    ]
+}
+{ 
+    "country" : "Marshall Islands", 
+    "language" : [
+        "English", 
+        "Marshallese"
+    ]
+}
+{ 
+    "country" : "Martinique", 
+    "language" : [
+        "Creole French", 
+        "French"
+    ]
+}
+{ 
+    "country" : "Mauritania", 
+    "language" : [
+        "Ful", 
+        "Hassaniya", 
+        "Soninke", 
+        "Tukulor", 
+        "Wolof", 
+        "Zenaga"
+    ]
+}
+{ 
+    "country" : "Mauritius", 
+    "language" : [
+        "Bhojpuri", 
+        "Creole French", 
+        "French", 
+        "Hindi", 
+        "Marathi", 
+        "Tamil"
+    ]
+}
+{ 
+    "country" : "Mayotte", 
+    "language" : [
+        "French", 
+        "Mahoré", 
+        "Malagasy"
+    ]
+}
+{ 
+    "country" : "Mexico", 
+    "language" : [
+        "Mixtec", 
+        "Náhuatl", 
+        "Otomí", 
+        "Spanish", 
+        "Yucatec", 
+        "Zapotec"
+    ]
+}
+{ 
+    "country" : "Micronesia, Federated States of", 
+    "language" : [
+        "Kosrean", 
+        "Mortlock", 
+        "Pohnpei", 
+        "Trukese", 
+        "Wolea", 
+        "Yap"
+    ]
+}
+{ 
+    "country" : "Moldova", 
+    "language" : [
+        "Bulgariana", 
+        "Gagauzi", 
+        "Romanian", 
+        "Russian", 
+        "Ukrainian"
+    ]
+}
+{ 
+    "country" : "Monaco", 
+    "language" : [
+        "English", 
+        "French", 
+        "Italian", 
+        "Monegasque"
+    ]
+}
+{ 
+    "country" : "Mongolia", 
+    "language" : [
+        "Bajad", 
+        "Buryat", 
+        "Dariganga", 
+        "Dorbet", 
+        "Kazakh", 
+        "Mongolian"
+    ]
+}
+{ 
+    "country" : "Montserrat", 
+    "language" : [
+        "English"
+    ]
+}
+{ 
+    "country" : "Morocco", 
+    "language" : [
+        "Arabic", 
+        "Berberi"
+    ]
+}
+{ 
+    "country" : "Mozambique", 
+    "language" : [
+        "Chuabo", 
+        "Lomwe", 
+        "Makua", 
+        "Marendje", 
+        "Nyanja", 
+        "Ronga", 
+        "Sena", 
+        "Shona", 
+        "Tsonga", 
+        "Tswa"
+    ]
+}
+{ 
+    "country" : "Myanmar", 
+    "language" : [
+        "Burmese", 
+        "Chin", 
+        "Kachin", 
+        "Karen", 
+        "Kayah", 
+        "Mon", 
+        "Rakhine", 
+        "Shan"
+    ]
+}
+{ 
+    "country" : "Namibia", 
+    "language" : [
+        "Afrikaans", 
+        "Caprivi", 
+        "German", 
+        "Herero", 
+        "Kavango", 
+        "Nama", 
+        "Ovambo", 
+        "San"
+    ]
+}
+{ 
+    "country" : "Nauru", 
+    "language" : [
+        "Chinese", 
+        "English", 
+        "Kiribati", 
+        "Nauru", 
+        "Tuvalu"
+    ]
+}
+{ 
+    "country" : "Nepal", 
+    "language" : [
+        "Bhojpuri", 
+        "Hindi", 
+        "Maithili", 
+        "Nepali", 
+        "Newari", 
+        "Tamang", 
+        "Tharu"
+    ]
+}
+{ 
+    "country" : "Netherlands", 
+    "language" : [
+        "Arabic", 
+        "Dutch", 
+        "Fries", 
+        "Turkish"
+    ]
+}
+{ 
+    "country" : "Netherlands Antilles", 
+    "language" : [
+        "Dutch", 
+        "English", 
+        "Papiamento"
+    ]
+}
+{ 
+    "country" : "New Caledonia", 
+    "language" : [
+        "French", 
+        "Malenasian Languages", 
+        "Polynesian Languages"
+    ]
+}
+{ 
+    "country" : "New Zealand", 
+    "language" : [
+        "English", 
+        "Maori"
+    ]
+}
+{ 
+    "country" : "Nicaragua", 
+    "language" : [
+        "Creole English", 
+        "Miskito", 
+        "Spanish", 
+        "Sumo"
+    ]
+}
+{ 
+    "country" : "Niger", 
+    "language" : [
+        "Ful", 
+        "Hausa", 
+        "Kanuri", 
+        "Songhai-zerma", 
+        "Tamashek"
+    ]
+}
+{ 
+    "country" : "Nigeria", 
+    "language" : [
+        "Bura", 
+        "Edo", 
+        "Ful", 
+        "Hausa", 
+        "Ibibio", 
+        "Ibo", 
+        "Ijo", 
+        "Joruba", 
+        "Kanuri", 
+        "Tiv"
+    ]
+}
+{ 
+    "country" : "Niue", 
+    "language" : [
+        "English", 
+        "Niue"
+    ]
+}
+{ 
+    "country" : "Norfolk Island", 
+    "language" : [
+        "English"
+    ]
+}
+{ 
+    "country" : "North Korea", 
+    "language" : [
+        "Chinese", 
+        "Korean"
+    ]
+}
+{ 
+    "country" : "Northern Mariana Islands", 
+    "language" : [
+        "Carolinian", 
+        "Chamorro", 
+        "Chinese", 
+        "English", 
+        "Korean", 
+        "Philippene Languages"
+    ]
+}
+{ 
+    "country" : "Norway", 
+    "language" : [
+        "Danish", 
+        "English", 
+        "Norwegian", 
+        "Saame", 
+        "Swedish"
+    ]
+}
+{ 
+    "country" : "Oman", 
+    "language" : [
+        "Arabic", 
+        "Balochi"
+    ]
+}
+{ 
+    "country" : "Pakistan", 
+    "language" : [
+        "Balochi", 
+        "Brahui", 
+        "Hindko", 
+        "Pashto", 
+        "Punjabi", 
+        "Saraiki", 
+        "Sindhi", 
+        "Urdu"
+    ]
+}
+{ 
+    "country" : "Palau", 
+    "language" : [
+        "Chinese", 
+        "English", 
+        "Palau", 
+        "Philippene Languages"
+    ]
+}
+{ 
+    "country" : "Palestine", 
+    "language" : [
+        "Arabic", 
+        "Hebrew"
+    ]
+}
+{ 
+    "country" : "Panama", 
+    "language" : [
+        "Arabic", 
+        "Creole English", 
+        "Cuna", 
+        "Embera", 
+        "Guaymí", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Papua New Guinea", 
+    "language" : [
+        "Malenasian Languages", 
+        "Papuan Languages"
+    ]
+}
+{ 
+    "country" : "Paraguay", 
+    "language" : [
+        "German", 
+        "Guaraní", 
+        "Portuguese", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Peru", 
+    "language" : [
+        "Aimará", 
+        "Ket\u009aua", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Philippines", 
+    "language" : [
+        "Bicol", 
+        "Cebuano", 
+        "Hiligaynon", 
+        "Ilocano", 
+        "Maguindanao", 
+        "Maranao", 
+        "Pampango", 
+        "Pangasinan", 
+        "Pilipino", 
+        "Waray-waray"
+    ]
+}
+{ 
+    "country" : "Pitcairn", 
+    "language" : [
+        "Pitcairnese"
+    ]
+}
+{ 
+    "country" : "Poland", 
+    "language" : [
+        "Belorussian", 
+        "German", 
+        "Polish", 
+        "Ukrainian"
+    ]
+}
+{ 
+    "country" : "Portugal", 
+    "language" : [
+        "Portuguese"
+    ]
+}
+{ 
+    "country" : "Puerto Rico", 
+    "language" : [
+        "English", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Qatar", 
+    "language" : [
+        "Arabic", 
+        "Urdu"
+    ]
+}
+{ 
+    "country" : "Reunion", 
+    "language" : [
+        "Chinese", 
+        "Comorian", 
+        "Creole French", 
+        "Malagasy", 
+        "Tamil"
+    ]
+}
+{ 
+    "country" : "Romania", 
+    "language" : [
+        "German", 
+        "Hungarian", 
+        "Romani", 
+        "Romanian", 
+        "Serbo-Croatian", 
+        "Ukrainian"
+    ]
+}
+{ 
+    "country" : "Russian Federation", 
+    "language" : [
+        "Avarian", 
+        "Bashkir", 
+        "Belorussian", 
+        "Chechen", 
+        "Chuvash", 
+        "Kazakh", 
+        "Mari", 
+        "Mordva", 
+        "Russian", 
+        "Tatar", 
+        "Udmur", 
+        "Ukrainian"
+    ]
+}
+{ 
+    "country" : "Rwanda", 
+    "language" : [
+        "French", 
+        "Rwanda"
+    ]
+}
+{ 
+    "country" : "Saint Helena", 
+    "language" : [
+        "English"
+    ]
+}
+{ 
+    "country" : "Saint Kitts and Nevis", 
+    "language" : [
+        "Creole English", 
+        "English"
+    ]
+}
+{ 
+    "country" : "Saint Lucia", 
+    "language" : [
+        "Creole French", 
+        "English"
+    ]
+}
+{ 
+    "country" : "Saint Pierre and Miquelon", 
+    "language" : [
+        "French"
+    ]
+}
+{ 
+    "country" : "Saint Vincent and the Grenadines", 
+    "language" : [
+        "Creole English", 
+        "English"
+    ]
+}
+{ 
+    "country" : "Samoa", 
+    "language" : [
+        "English", 
+        "Samoan", 
+        "Samoan-English"
+    ]
+}
+{ 
+    "country" : "San Marino", 
+    "language" : [
+        "Italian"
+    ]
+}
+{ 
+    "country" : "Sao Tome and Principe", 
+    "language" : [
+        "Crioulo", 
+        "French"
+    ]
+}
+{ 
+    "country" : "Saudi Arabia", 
+    "language" : [
+        "Arabic"
+    ]
+}
+{ 
+    "country" : "Senegal", 
+    "language" : [
+        "Diola", 
+        "Ful", 
+        "Malinke", 
+        "Serer", 
+        "Soninke", 
+        "Wolof"
+    ]
+}
+{ 
+    "country" : "Seychelles", 
+    "language" : [
+        "English", 
+        "French", 
+        "Seselwa"
+    ]
+}
+{ 
+    "country" : "Sierra Leone", 
+    "language" : [
+        "Bullom-sherbro", 
+        "Ful", 
+        "Kono-vai", 
+        "Kuranko", 
+        "Limba", 
+        "Mende", 
+        "Temne", 
+        "Yalunka"
+    ]
+}
+{ 
+    "country" : "Singapore", 
+    "language" : [
+        "Chinese", 
+        "Malay", 
+        "Tamil"
+    ]
+}
+{ 
+    "country" : "Slovakia", 
+    "language" : [
+        "Czech and Moravian", 
+        "Hungarian", 
+        "Romani", 
+        "Slovak", 
+        "Ukrainian and Russian"
+    ]
+}
+{ 
+    "country" : "Slovenia", 
+    "language" : [
+        "Hungarian", 
+        "Serbo-Croatian", 
+        "Slovene"
+    ]
+}
+{ 
+    "country" : "Solomon Islands", 
+    "language" : [
+        "Malenasian Languages", 
+        "Papuan Languages", 
+        "Polynesian Languages"
+    ]
+}
+{ 
+    "country" : "Somalia", 
+    "language" : [
+        "Arabic", 
+        "Somali"
+    ]
+}
+{ 
+    "country" : "South Africa", 
+    "language" : [
+        "Afrikaans", 
+        "English", 
+        "Ndebele", 
+        "Northsotho", 
+        "Southsotho", 
+        "Swazi", 
+        "Tsonga", 
+        "Tswana", 
+        "Venda", 
+        "Xhosa", 
+        "Zulu"
+    ]
+}
+{ 
+    "country" : "South Korea", 
+    "language" : [
+        "Chinese", 
+        "Korean"
+    ]
+}
+{ 
+    "country" : "Spain", 
+    "language" : [
+        "Basque", 
+        "Catalan", 
+        "Galecian", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Sri Lanka", 
+    "language" : [
+        "Mixed Languages", 
+        "Singali", 
+        "Tamil"
+    ]
+}
+{ 
+    "country" : "Sudan", 
+    "language" : [
+        "Arabic", 
+        "Bari", 
+        "Beja", 
+        "Chilluk", 
+        "Dinka", 
+        "Fur", 
+        "Lotuko", 
+        "Nubian Languages", 
+        "Nuer", 
+        "Zande"
+    ]
+}
+{ 
+    "country" : "Suriname", 
+    "language" : [
+        "Hindi", 
+        "Sranantonga"
+    ]
+}
+{ 
+    "country" : "Svalbard and Jan Mayen", 
+    "language" : [
+        "Norwegian", 
+        "Russian"
+    ]
+}
+{ 
+    "country" : "Swaziland", 
+    "language" : [
+        "Swazi", 
+        "Zulu"
+    ]
+}
+{ 
+    "country" : "Sweden", 
+    "language" : [
+        "Arabic", 
+        "Finnish", 
+        "Norwegian", 
+        "Southern Slavic Languages", 
+        "Spanish", 
+        "Swedish"
+    ]
+}
+{ 
+    "country" : "Switzerland", 
+    "language" : [
+        "French", 
+        "German", 
+        "Italian", 
+        "Romansh"
+    ]
+}
+{ 
+    "country" : "Syria", 
+    "language" : [
+        "Arabic", 
+        "Kurdish"
+    ]
+}
+{ 
+    "country" : "Taiwan", 
+    "language" : [
+        "Ami", 
+        "Atayal", 
+        "Hakka", 
+        "Mandarin Chinese", 
+        "Min", 
+        "Paiwan"
+    ]
+}
+{ 
+    "country" : "Tajikistan", 
+    "language" : [
+        "Russian", 
+        "Tadzhik", 
+        "Uzbek"
+    ]
+}
+{ 
+    "country" : "Tanzania", 
+    "language" : [
+        "Chaga and Pare", 
+        "Gogo", 
+        "Ha", 
+        "Haya", 
+        "Hehet", 
+        "Luguru", 
+        "Makonde", 
+        "Nyakusa", 
+        "Nyamwesi", 
+        "Shambala", 
+        "Swahili"
+    ]
+}
+{ 
+    "country" : "Thailand", 
+    "language" : [
+        "Chinese", 
+        "Khmer", 
+        "Kuy", 
+        "Lao", 
+        "Malay", 
+        "Thai"
+    ]
+}
+{ 
+    "country" : "Togo", 
+    "language" : [
+        "Ane", 
+        "Ewe", 
+        "Gurma", 
+        "Kabyé", 
+        "Kotokoli", 
+        "Moba", 
+        "Naudemba", 
+        "Watyi"
+    ]
+}
+{ 
+    "country" : "Tokelau", 
+    "language" : [
+        "English", 
+        "Tokelau"
+    ]
+}
+{ 
+    "country" : "Tonga", 
+    "language" : [
+        "English", 
+        "Tongan"
+    ]
+}
+{ 
+    "country" : "Trinidad and Tobago", 
+    "language" : [
+        "Creole English", 
+        "English", 
+        "Hindi"
+    ]
+}
+{ 
+    "country" : "Tunisia", 
+    "language" : [
+        "Arabic", 
+        "Arabic-French", 
+        "Arabic-French-English"
+    ]
+}
+{ 
+    "country" : "Turkey", 
+    "language" : [
+        "Arabic", 
+        "Kurdish", 
+        "Turkish"
+    ]
+}
+{ 
+    "country" : "Turkmenistan", 
+    "language" : [
+        "Kazakh", 
+        "Russian", 
+        "Turkmenian", 
+        "Uzbek"
+    ]
+}
+{ 
+    "country" : "Turks and Caicos Islands", 
+    "language" : [
+        "English"
+    ]
+}
+{ 
+    "country" : "Tuvalu", 
+    "language" : [
+        "English", 
+        "Kiribati", 
+        "Tuvalu"
+    ]
+}
+{ 
+    "country" : "Uganda", 
+    "language" : [
+        "Acholi", 
+        "Ganda", 
+        "Gisu", 
+        "Kiga", 
+        "Lango", 
+        "Lugbara", 
+        "Nkole", 
+        "Rwanda", 
+        "Soga", 
+        "Teso"
+    ]
+}
+{ 
+    "country" : "Ukraine", 
+    "language" : [
+        "Belorussian", 
+        "Bulgariana", 
+        "Hungarian", 
+        "Polish", 
+        "Romanian", 
+        "Russian", 
+        "Ukrainian"
+    ]
+}
+{ 
+    "country" : "United Arab Emirates", 
+    "language" : [
+        "Arabic", 
+        "Hindi"
+    ]
+}
+{ 
+    "country" : "United Kingdom", 
+    "language" : [
+        "English", 
+        "Gaeli", 
+        "Kymri"
+    ]
+}
+{ 
+    "country" : "United States", 
+    "language" : [
+        "Chinese", 
+        "English", 
+        "French", 
+        "German", 
+        "Italian", 
+        "Japanese", 
+        "Korean", 
+        "Polish", 
+        "Portuguese", 
+        "Spanish", 
+        "Tagalog", 
+        "Vietnamese"
+    ]
+}
+{ 
+    "country" : "United States Minor Outlying Islands", 
+    "language" : [
+        "English"
+    ]
+}
+{ 
+    "country" : "Uruguay", 
+    "language" : [
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Uzbekistan", 
+    "language" : [
+        "Karakalpak", 
+        "Kazakh", 
+        "Russian", 
+        "Tadzhik", 
+        "Tatar", 
+        "Uzbek"
+    ]
+}
+{ 
+    "country" : "Vanuatu", 
+    "language" : [
+        "Bislama", 
+        "English", 
+        "French"
+    ]
+}
+{ 
+    "country" : "Venezuela", 
+    "language" : [
+        "Goajiro", 
+        "Spanish", 
+        "Warrau"
+    ]
+}
+{ 
+    "country" : "Vietnam", 
+    "language" : [
+        "Chinese", 
+        "Khmer", 
+        "Man", 
+        "Miao", 
+        "Muong", 
+        "Nung", 
+        "Thai", 
+        "Tho", 
+        "Vietnamese"
+    ]
+}
+{ 
+    "country" : "Virgin Islands, British", 
+    "language" : [
+        "English"
+    ]
+}
+{ 
+    "country" : "Virgin Islands, U.S.", 
+    "language" : [
+        "English", 
+        "French", 
+        "Spanish"
+    ]
+}
+{ 
+    "country" : "Wallis and Futuna", 
+    "language" : [
+        "Futuna", 
+        "Wallis"
+    ]
+}
+{ 
+    "country" : "Western Sahara", 
+    "language" : [
+        "Arabic"
+    ]
+}
+{ 
+    "country" : "Yemen", 
+    "language" : [
+        "Arabic", 
+        "Soqutri"
+    ]
+}
+{ 
+    "country" : "Yugoslavia", 
+    "language" : [
+        "Albaniana", 
+        "Hungarian", 
+        "Macedonian", 
+        "Romani", 
+        "Serbo-Croatian", 
+        "Slovak"
+    ]
+}
+{ 
+    "country" : "Zambia", 
+    "language" : [
+        "Bemba", 
+        "Chewa", 
+        "Lozi", 
+        "Nsenga", 
+        "Nyanja", 
+        "Tongan"
+    ]
+}
+{ 
+    "country" : "Zimbabwe", 
+    "language" : [
+        "English", 
+        "Ndebele", 
+        "Nyanja", 
+        "Shona"
+    ]
+}
