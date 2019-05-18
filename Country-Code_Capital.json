@@ -1,0 +1,1195 @@
+{ 
+    "country" : "Afghanistan", 
+    "code" : "AF", 
+    "capital" : "Kabul"
+}
+{ 
+    "country" : "Albania", 
+    "code" : "AL", 
+    "capital" : "Tirana"
+}
+{ 
+    "country" : "Algeria", 
+    "code" : "DZ", 
+    "capital" : "Alger"
+}
+{ 
+    "country" : "American Samoa", 
+    "code" : "AS", 
+    "capital" : "Fagatogo"
+}
+{ 
+    "country" : "Andorra", 
+    "code" : "AD", 
+    "capital" : "Andorra la Vella"
+}
+{ 
+    "country" : "Angola", 
+    "code" : "AO", 
+    "capital" : "Luanda"
+}
+{ 
+    "country" : "Anguilla", 
+    "code" : "AI", 
+    "capital" : "The Valley"
+}
+{ 
+    "country" : "Antarctica", 
+    "code" : "AQ", 
+    "capital" : null
+}
+{ 
+    "country" : "Antigua and Barbuda", 
+    "code" : "AG", 
+    "capital" : "Saint John's"
+}
+{ 
+    "country" : "Argentina", 
+    "code" : "AR", 
+    "capital" : "Buenos Aires"
+}
+{ 
+    "country" : "Armenia", 
+    "code" : "AM", 
+    "capital" : "Yerevan"
+}
+{ 
+    "country" : "Aruba", 
+    "code" : "AW", 
+    "capital" : "Oranjestad"
+}
+{ 
+    "country" : "Australia", 
+    "code" : "AU", 
+    "capital" : "Canberra"
+}
+{ 
+    "country" : "Austria", 
+    "code" : "AT", 
+    "capital" : "Wien"
+}
+{ 
+    "country" : "Azerbaijan", 
+    "code" : "AZ", 
+    "capital" : "Baku"
+}
+{ 
+    "country" : "Bahamas", 
+    "code" : "BS", 
+    "capital" : "Nassau"
+}
+{ 
+    "country" : "Bahrain", 
+    "code" : "BH", 
+    "capital" : "al-Manama"
+}
+{ 
+    "country" : "Bangladesh", 
+    "code" : "BD", 
+    "capital" : "Dhaka"
+}
+{ 
+    "country" : "Barbados", 
+    "code" : "BB", 
+    "capital" : "Bridgetown"
+}
+{ 
+    "country" : "Belarus", 
+    "code" : "BY", 
+    "capital" : "Minsk"
+}
+{ 
+    "country" : "Belgium", 
+    "code" : "BE", 
+    "capital" : "Bruxelles [Brussel]"
+}
+{ 
+    "country" : "Belize", 
+    "code" : "BZ", 
+    "capital" : "Belmopan"
+}
+{ 
+    "country" : "Benin", 
+    "code" : "BJ", 
+    "capital" : "Porto-Novo"
+}
+{ 
+    "country" : "Bermuda", 
+    "code" : "BM", 
+    "capital" : "Hamilton"
+}
+{ 
+    "country" : "Bhutan", 
+    "code" : "BT", 
+    "capital" : "Thimphu"
+}
+{ 
+    "country" : "Bolivia", 
+    "code" : "BO", 
+    "capital" : "La Paz"
+}
+{ 
+    "country" : "Bosnia and Herzegovina", 
+    "code" : "BA", 
+    "capital" : "Sarajevo"
+}
+{ 
+    "country" : "Botswana", 
+    "code" : "BW", 
+    "capital" : "Gaborone"
+}
+{ 
+    "country" : "Bouvet Island", 
+    "code" : "BV", 
+    "capital" : null
+}
+{ 
+    "country" : "Brazil", 
+    "code" : "BR", 
+    "capital" : "Brasília"
+}
+{ 
+    "country" : "British Indian Ocean Territory", 
+    "code" : "IO", 
+    "capital" : null
+}
+{ 
+    "country" : "Brunei", 
+    "code" : "BN", 
+    "capital" : "Bandar Seri Begawan"
+}
+{ 
+    "country" : "Bulgaria", 
+    "code" : "BG", 
+    "capital" : "Sofia"
+}
+{ 
+    "country" : "Burkina Faso", 
+    "code" : "BF", 
+    "capital" : "Ouagadougou"
+}
+{ 
+    "country" : "Burundi", 
+    "code" : "BI", 
+    "capital" : "Bujumbura"
+}
+{ 
+    "country" : "Cambodia", 
+    "code" : "KH", 
+    "capital" : "Phnom Penh"
+}
+{ 
+    "country" : "Cameroon", 
+    "code" : "CM", 
+    "capital" : "Yaound"
+}
+{ 
+    "country" : "Canada", 
+    "code" : "CA", 
+    "capital" : "Ottawa"
+}
+{ 
+    "country" : "Cape Verde", 
+    "code" : "CV", 
+    "capital" : "Praia"
+}
+{ 
+    "country" : "Cayman Islands", 
+    "code" : "KY", 
+    "capital" : "George Town"
+}
+{ 
+    "country" : "Central African Republic", 
+    "code" : "CF", 
+    "capital" : "Bangui"
+}
+{ 
+    "country" : "Chad", 
+    "code" : "TD", 
+    "capital" : "N'Djam"
+}
+{ 
+    "country" : "Chile", 
+    "code" : "CL", 
+    "capital" : "Santiago de Chile"
+}
+{ 
+    "country" : "China", 
+    "code" : "CN", 
+    "capital" : "Peking"
+}
+{ 
+    "country" : "Christmas Island", 
+    "code" : "CX", 
+    "capital" : "Flying Fish Cove"
+}
+{ 
+    "country" : "Cocos (Keeling) Islands", 
+    "code" : "CC", 
+    "capital" : "West Island"
+}
+{ 
+    "country" : "Colombia", 
+    "code" : "CO", 
+    "capital" : "Santaf"
+}
+{ 
+    "country" : "Comoros", 
+    "code" : "KM", 
+    "capital" : "Moroni"
+}
+{ 
+    "country" : "Congo", 
+    "code" : "CG", 
+    "capital" : "Brazzaville"
+}
+{ 
+    "country" : "Cook Islands", 
+    "code" : "CK", 
+    "capital" : "Avarua"
+}
+{ 
+    "country" : "Costa Rica", 
+    "code" : "CR", 
+    "capital" : "San Jos"
+}
+{ 
+    "country" : "Croatia", 
+    "code" : "HR", 
+    "capital" : "Zagreb"
+}
+{ 
+    "country" : "Cuba", 
+    "code" : "CU", 
+    "capital" : "La Habana"
+}
+{ 
+    "country" : "Cyprus", 
+    "code" : "CY", 
+    "capital" : "Nicosia"
+}
+{ 
+    "country" : "Czech Republic", 
+    "code" : "CZ", 
+    "capital" : "Praha"
+}
+{ 
+    "country" : "Denmark", 
+    "code" : "DK", 
+    "capital" : "Copenhagen"
+}
+{ 
+    "country" : "Djibouti", 
+    "code" : "DJ", 
+    "capital" : "Djibouti"
+}
+{ 
+    "country" : "Dominica", 
+    "code" : "DM", 
+    "capital" : "Roseau"
+}
+{ 
+    "country" : "Dominican Republic", 
+    "code" : "DO", 
+    "capital" : "Santo Domingo de Guzm"
+}
+{ 
+    "country" : "East Timor", 
+    "code" : "TP", 
+    "capital" : "Dili"
+}
+{ 
+    "country" : "Ecuador", 
+    "code" : "EC", 
+    "capital" : "Quito"
+}
+{ 
+    "country" : "Egypt", 
+    "code" : "EG", 
+    "capital" : "Cairo"
+}
+{ 
+    "country" : "El Salvador", 
+    "code" : "SV", 
+    "capital" : "San Salvador"
+}
+{ 
+    "country" : "Equatorial Guinea", 
+    "code" : "GQ", 
+    "capital" : "Malabo"
+}
+{ 
+    "country" : "Eritrea", 
+    "code" : "ER", 
+    "capital" : "Asmara"
+}
+{ 
+    "country" : "Estonia", 
+    "code" : "EE", 
+    "capital" : "Tallinn"
+}
+{ 
+    "country" : "Ethiopia", 
+    "code" : "ET", 
+    "capital" : "Addis Abeba"
+}
+{ 
+    "country" : "Falkland Islands", 
+    "code" : "FK", 
+    "capital" : "Stanley"
+}
+{ 
+    "country" : "Faroe Islands", 
+    "code" : "FO", 
+    "capital" : "Tórshavn"
+}
+{ 
+    "country" : "Fiji Islands", 
+    "code" : "FJ", 
+    "capital" : "Suva"
+}
+{ 
+    "country" : "Finland", 
+    "code" : "FI", 
+    "capital" : "Helsinki [Helsingfors]"
+}
+{ 
+    "country" : "France", 
+    "code" : "FR", 
+    "capital" : "Paris"
+}
+{ 
+    "country" : "French Guiana", 
+    "code" : "GF", 
+    "capital" : "Cayenne"
+}
+{ 
+    "country" : "French Polynesia", 
+    "code" : "PF", 
+    "capital" : "Papeete"
+}
+{ 
+    "country" : "French Southern territories", 
+    "code" : "TF", 
+    "capital" : null
+}
+{ 
+    "country" : "Gabon", 
+    "code" : "GA", 
+    "capital" : "Libreville"
+}
+{ 
+    "country" : "Gambia", 
+    "code" : "GM", 
+    "capital" : "Banjul"
+}
+{ 
+    "country" : "Georgia", 
+    "code" : "GE", 
+    "capital" : "Tbilisi"
+}
+{ 
+    "country" : "Germany", 
+    "code" : "DE", 
+    "capital" : "Berlin"
+}
+{ 
+    "country" : "Ghana", 
+    "code" : "GH", 
+    "capital" : "Accra"
+}
+{ 
+    "country" : "Gibraltar", 
+    "code" : "GI", 
+    "capital" : "Gibraltar"
+}
+{ 
+    "country" : "Greece", 
+    "code" : "GR", 
+    "capital" : "Athenai"
+}
+{ 
+    "country" : "Greenland", 
+    "code" : "GL", 
+    "capital" : "Nuuk"
+}
+{ 
+    "country" : "Grenada", 
+    "code" : "GD", 
+    "capital" : "Saint George's"
+}
+{ 
+    "country" : "Guadeloupe", 
+    "code" : "GP", 
+    "capital" : "Basse-Terre"
+}
+{ 
+    "country" : "Guam", 
+    "code" : "GU", 
+    "capital" : "Aga"
+}
+{ 
+    "country" : "Guatemala", 
+    "code" : "GT", 
+    "capital" : "Ciudad de Guatemala"
+}
+{ 
+    "country" : "Guinea", 
+    "code" : "GN", 
+    "capital" : "Conakry"
+}
+{ 
+    "country" : "Guinea-Bissau", 
+    "code" : "GW", 
+    "capital" : "Bissau"
+}
+{ 
+    "country" : "Guyana", 
+    "code" : "GY", 
+    "capital" : "Georgetown"
+}
+{ 
+    "country" : "Haiti", 
+    "code" : "HT", 
+    "capital" : "Port-au-Prince"
+}
+{ 
+    "country" : "Heard Island and McDonald Islands", 
+    "code" : "HM", 
+    "capital" : null
+}
+{ 
+    "country" : "Holy See (Vatican City State)", 
+    "code" : "VA", 
+    "capital" : "Citt"
+}
+{ 
+    "country" : "Honduras", 
+    "code" : "HN", 
+    "capital" : "Tegucigalpa"
+}
+{ 
+    "country" : "Hong Kong", 
+    "code" : "HK", 
+    "capital" : "Victoria"
+}
+{ 
+    "country" : "Hungary", 
+    "code" : "HU", 
+    "capital" : "Budapest"
+}
+{ 
+    "country" : "Iceland", 
+    "code" : "IS", 
+    "capital" : "Reykjav"
+}
+{ 
+    "country" : "India", 
+    "code" : "IN", 
+    "capital" : "New Delhi"
+}
+{ 
+    "country" : "Indonesia", 
+    "code" : "ID", 
+    "capital" : "Jakarta"
+}
+{ 
+    "country" : "Iran", 
+    "code" : "IR", 
+    "capital" : "Tehran"
+}
+{ 
+    "country" : "Iraq", 
+    "code" : "IQ", 
+    "capital" : "Baghdad"
+}
+{ 
+    "country" : "Ireland", 
+    "code" : "IE", 
+    "capital" : "Dublin"
+}
+{ 
+    "country" : "Israel", 
+    "code" : "IL", 
+    "capital" : "Jerusalem"
+}
+{ 
+    "country" : "Italy", 
+    "code" : "IT", 
+    "capital" : "Roma"
+}
+{ 
+    "country" : "Ivory Coast", 
+    "code" : "CI", 
+    "capital" : "Yamoussoukro"
+}
+{ 
+    "country" : "Jamaica", 
+    "code" : "JM", 
+    "capital" : "Kingston"
+}
+{ 
+    "country" : "Japan", 
+    "code" : "JP", 
+    "capital" : "Tokyo"
+}
+{ 
+    "country" : "Jordan", 
+    "code" : "JO", 
+    "capital" : "Amman"
+}
+{ 
+    "country" : "Kazakhstan", 
+    "code" : "KZ", 
+    "capital" : "Astana"
+}
+{ 
+    "country" : "Kenya", 
+    "code" : "KE", 
+    "capital" : "Nairobi"
+}
+{ 
+    "country" : "Kiribati", 
+    "code" : "KI", 
+    "capital" : "Bairiki"
+}
+{ 
+    "country" : "Kuwait", 
+    "code" : "KW", 
+    "capital" : "Kuwait"
+}
+{ 
+    "country" : "Kyrgyzstan", 
+    "code" : "KG", 
+    "capital" : "Bishkek"
+}
+{ 
+    "country" : "Laos", 
+    "code" : "LA", 
+    "capital" : "Vientiane"
+}
+{ 
+    "country" : "Latvia", 
+    "code" : "LV", 
+    "capital" : "Riga"
+}
+{ 
+    "country" : "Lebanon", 
+    "code" : "LB", 
+    "capital" : "Beirut"
+}
+{ 
+    "country" : "Lesotho", 
+    "code" : "LS", 
+    "capital" : "Maseru"
+}
+{ 
+    "country" : "Liberia", 
+    "code" : "LR", 
+    "capital" : "Monrovia"
+}
+{ 
+    "country" : "Libyan Arab Jamahiriya", 
+    "code" : "LY", 
+    "capital" : "Tripoli"
+}
+{ 
+    "country" : "Liechtenstein", 
+    "code" : "LI", 
+    "capital" : "Vaduz"
+}
+{ 
+    "country" : "Lithuania", 
+    "code" : "LT", 
+    "capital" : "Vilnius"
+}
+{ 
+    "country" : "Luxembourg", 
+    "code" : "LU", 
+    "capital" : "Luxembourg [Luxemburg/L"
+}
+{ 
+    "country" : "Macao", 
+    "code" : "MO", 
+    "capital" : "Macao"
+}
+{ 
+    "country" : "Madagascar", 
+    "code" : "MG", 
+    "capital" : "Antananarivo"
+}
+{ 
+    "country" : "Malawi", 
+    "code" : "MW", 
+    "capital" : "Lilongwe"
+}
+{ 
+    "country" : "Malaysia", 
+    "code" : "MY", 
+    "capital" : "Kuala Lumpur"
+}
+{ 
+    "country" : "Maldives", 
+    "code" : "MV", 
+    "capital" : "Male"
+}
+{ 
+    "country" : "Mali", 
+    "code" : "ML", 
+    "capital" : "Bamako"
+}
+{ 
+    "country" : "Malta", 
+    "code" : "MT", 
+    "capital" : "Valletta"
+}
+{ 
+    "country" : "Marshall Islands", 
+    "code" : "MH", 
+    "capital" : "Dalap-Uliga-Darrit"
+}
+{ 
+    "country" : "Martinique", 
+    "code" : "MQ", 
+    "capital" : "Fort-de-France"
+}
+{ 
+    "country" : "Mauritania", 
+    "code" : "MR", 
+    "capital" : "Nouakchott"
+}
+{ 
+    "country" : "Mauritius", 
+    "code" : "MU", 
+    "capital" : "Port-Louis"
+}
+{ 
+    "country" : "Mayotte", 
+    "code" : "YT", 
+    "capital" : "Mamoutzou"
+}
+{ 
+    "country" : "Mexico", 
+    "code" : "MX", 
+    "capital" : "Ciudad de M"
+}
+{ 
+    "country" : "Micronesia, Federated States of", 
+    "code" : "FM", 
+    "capital" : "Palikir"
+}
+{ 
+    "country" : "Moldova", 
+    "code" : "MD", 
+    "capital" : "Chisinau"
+}
+{ 
+    "country" : "Monaco", 
+    "code" : "MC", 
+    "capital" : "Monaco-Ville"
+}
+{ 
+    "country" : "Mongolia", 
+    "code" : "MN", 
+    "capital" : "Ulan Bator"
+}
+{ 
+    "country" : "Montserrat", 
+    "code" : "MS", 
+    "capital" : "Plymouth"
+}
+{ 
+    "country" : "Morocco", 
+    "code" : "MA", 
+    "capital" : "Rabat"
+}
+{ 
+    "country" : "Mozambique", 
+    "code" : "MZ", 
+    "capital" : "Maputo"
+}
+{ 
+    "country" : "Myanmar", 
+    "code" : "MM", 
+    "capital" : "Rangoon (Yangon)"
+}
+{ 
+    "country" : "Namibia", 
+    "code" : "NA", 
+    "capital" : "Windhoek"
+}
+{ 
+    "country" : "Nauru", 
+    "code" : "NR", 
+    "capital" : "Yaren"
+}
+{ 
+    "country" : "Nepal", 
+    "code" : "NP", 
+    "capital" : "Kathmandu"
+}
+{ 
+    "country" : "Netherlands", 
+    "code" : "NL", 
+    "capital" : "Amsterdam"
+}
+{ 
+    "country" : "Netherlands Antilles", 
+    "code" : "AN", 
+    "capital" : "Willemstad"
+}
+{ 
+    "country" : "New Caledonia", 
+    "code" : "NC", 
+    "capital" : "Noum"
+}
+{ 
+    "country" : "New Zealand", 
+    "code" : "NZ", 
+    "capital" : "Wellington"
+}
+{ 
+    "country" : "Nicaragua", 
+    "code" : "NI", 
+    "capital" : "Managua"
+}
+{ 
+    "country" : "Niger", 
+    "code" : "NE", 
+    "capital" : "Niamey"
+}
+{ 
+    "country" : "Nigeria", 
+    "code" : "NG", 
+    "capital" : "Abuja"
+}
+{ 
+    "country" : "Niue", 
+    "code" : "NU", 
+    "capital" : "Alofi"
+}
+{ 
+    "country" : "Norfolk Island", 
+    "code" : "NF", 
+    "capital" : "Kingston"
+}
+{ 
+    "country" : "North Korea", 
+    "code" : "KP", 
+    "capital" : "Pyongyang"
+}
+{ 
+    "country" : "North Macedonia", 
+    "code" : "MK", 
+    "capital" : "Skopje"
+}
+{ 
+    "country" : "Northern Ireland", 
+    "code" : "GB", 
+    "capital" : "Belfast"
+}
+{ 
+    "country" : "Northern Mariana Islands", 
+    "code" : "MP", 
+    "capital" : "Garapan"
+}
+{ 
+    "country" : "Norway", 
+    "code" : "NO", 
+    "capital" : "Oslo"
+}
+{ 
+    "country" : "Oman", 
+    "code" : "OM", 
+    "capital" : "Masqat"
+}
+{ 
+    "country" : "Pakistan", 
+    "code" : "PK", 
+    "capital" : "Islamabad"
+}
+{ 
+    "country" : "Palau", 
+    "code" : "PW", 
+    "capital" : "Koror"
+}
+{ 
+    "country" : "Palestine", 
+    "code" : "PS", 
+    "capital" : "Gaza"
+}
+{ 
+    "country" : "Panama", 
+    "code" : "PA", 
+    "capital" : "Ciudad de Panam"
+}
+{ 
+    "country" : "Papua New Guinea", 
+    "code" : "PG", 
+    "capital" : "Port Moresby"
+}
+{ 
+    "country" : "Paraguay", 
+    "code" : "PY", 
+    "capital" : "Asunci"
+}
+{ 
+    "country" : "Peru", 
+    "code" : "PE", 
+    "capital" : "Lima"
+}
+{ 
+    "country" : "Philippines", 
+    "code" : "PH", 
+    "capital" : "Manila"
+}
+{ 
+    "country" : "Pitcairn", 
+    "code" : "PN", 
+    "capital" : "Adamstown"
+}
+{ 
+    "country" : "Poland", 
+    "code" : "PL", 
+    "capital" : "Warszawa"
+}
+{ 
+    "country" : "Portugal", 
+    "code" : "PT", 
+    "capital" : "Lisboa"
+}
+{ 
+    "country" : "Puerto Rico", 
+    "code" : "PR", 
+    "capital" : "San Juan"
+}
+{ 
+    "country" : "Qatar", 
+    "code" : "QA", 
+    "capital" : "Doha"
+}
+{ 
+    "country" : "Reunion", 
+    "code" : "RE", 
+    "capital" : "Saint-Denis"
+}
+{ 
+    "country" : "Romania", 
+    "code" : "RO", 
+    "capital" : "Bucuresti"
+}
+{ 
+    "country" : "Russian Federation", 
+    "code" : "RU", 
+    "capital" : "Moscow"
+}
+{ 
+    "country" : "Rwanda", 
+    "code" : "RW", 
+    "capital" : "Kigali"
+}
+{ 
+    "country" : "Saint Helena", 
+    "code" : "SH", 
+    "capital" : "Jamestown"
+}
+{ 
+    "country" : "Saint Kitts and Nevis", 
+    "code" : "KN", 
+    "capital" : "Basseterre"
+}
+{ 
+    "country" : "Saint Lucia", 
+    "code" : "LC", 
+    "capital" : "Castries"
+}
+{ 
+    "country" : "Saint Pierre and Miquelon", 
+    "code" : "PM", 
+    "capital" : "Saint-Pierre"
+}
+{ 
+    "country" : "Saint Vincent and the Grenadines", 
+    "code" : "VC", 
+    "capital" : "Kingstown"
+}
+{ 
+    "country" : "Samoa", 
+    "code" : "WS", 
+    "capital" : "Apia"
+}
+{ 
+    "country" : "San Marino", 
+    "code" : "SM", 
+    "capital" : "San Marino"
+}
+{ 
+    "country" : "Sao Tome and Principe", 
+    "code" : "ST", 
+    "capital" : "S"
+}
+{ 
+    "country" : "Saudi Arabia", 
+    "code" : "SA", 
+    "capital" : "Riyadh"
+}
+{ 
+    "country" : "Senegal", 
+    "code" : "SN", 
+    "capital" : "Dakar"
+}
+{ 
+    "country" : "Seychelles", 
+    "code" : "SC", 
+    "capital" : "Victoria"
+}
+{ 
+    "country" : "Sierra Leone", 
+    "code" : "SL", 
+    "capital" : "Freetown"
+}
+{ 
+    "country" : "Singapore", 
+    "code" : "SG", 
+    "capital" : "Singapore"
+}
+{ 
+    "country" : "Slovakia", 
+    "code" : "SK", 
+    "capital" : "Bratislava"
+}
+{ 
+    "country" : "Slovenia", 
+    "code" : "SI", 
+    "capital" : "Ljubljana"
+}
+{ 
+    "country" : "Solomon Islands", 
+    "code" : "SB", 
+    "capital" : "Honiara"
+}
+{ 
+    "country" : "Somalia", 
+    "code" : "SO", 
+    "capital" : "Mogadishu"
+}
+{ 
+    "country" : "South Africa", 
+    "code" : "ZA", 
+    "capital" : "Pretoria"
+}
+{ 
+    "country" : "South Georgia and the South Sandwich Islands", 
+    "code" : "GS", 
+    "capital" : null
+}
+{ 
+    "country" : "South Korea", 
+    "code" : "KR", 
+    "capital" : "Seoul"
+}
+{ 
+    "country" : "South Sudan", 
+    "code" : "SS", 
+    "capital" : "Juba"
+}
+{ 
+    "country" : "Spain", 
+    "code" : "ES", 
+    "capital" : "Madrid"
+}
+{ 
+    "country" : "Sudan", 
+    "code" : "SD", 
+    "capital" : "Khartum"
+}
+{ 
+    "country" : "Suriname", 
+    "code" : "SR", 
+    "capital" : "Paramaribo"
+}
+{ 
+    "country" : "Svalbard and Jan Mayen", 
+    "code" : "SJ", 
+    "capital" : "Longyearbyen"
+}
+{ 
+    "country" : "Swaziland", 
+    "code" : "SZ", 
+    "capital" : "Mbabane"
+}
+{ 
+    "country" : "Sweden", 
+    "code" : "SE", 
+    "capital" : "Stockholm"
+}
+{ 
+    "country" : "Switzerland", 
+    "code" : "CH", 
+    "capital" : "Bern"
+}
+{ 
+    "country" : "Syria", 
+    "code" : "SY", 
+    "capital" : "Damascus"
+}
+{ 
+    "country" : "Tajikistan", 
+    "code" : "TJ", 
+    "capital" : "Dushanbe"
+}
+{ 
+    "country" : "Tanzania", 
+    "code" : "TZ", 
+    "capital" : "Dodoma"
+}
+{ 
+    "country" : "Thailand", 
+    "code" : "TH", 
+    "capital" : "Bangkok"
+}
+{ 
+    "country" : "The Democratic Republic of Congo", 
+    "code" : "CD", 
+    "capital" : null
+}
+{ 
+    "country" : "Togo", 
+    "code" : "TG", 
+    "capital" : "Lom"
+}
+{ 
+    "country" : "Tokelau", 
+    "code" : "TK", 
+    "capital" : "Fakaofo"
+}
+{ 
+    "country" : "Tonga", 
+    "code" : "TO", 
+    "capital" : "Nuku'alofa"
+}
+{ 
+    "country" : "Trinidad and Tobago", 
+    "code" : "TT", 
+    "capital" : "Port-of-Spain"
+}
+{ 
+    "country" : "Tunisia", 
+    "code" : "TN", 
+    "capital" : "Tunis"
+}
+{ 
+    "country" : "Turkey", 
+    "code" : "TR", 
+    "capital" : "Ankara"
+}
+{ 
+    "country" : "Turkmenistan", 
+    "code" : "TM", 
+    "capital" : "Ashgabat"
+}
+{ 
+    "country" : "Turks and Caicos Islands", 
+    "code" : "TC", 
+    "capital" : "Cockburn Town"
+}
+{ 
+    "country" : "Tuvalu", 
+    "code" : "TV", 
+    "capital" : "Funafuti"
+}
+{ 
+    "country" : "Uganda", 
+    "code" : "UG", 
+    "capital" : "Kampala"
+}
+{ 
+    "country" : "Ukraine", 
+    "code" : "UA", 
+    "capital" : "Kyiv"
+}
+{ 
+    "country" : "United Arab Emirates", 
+    "code" : "AE", 
+    "capital" : "Abu Dhabi"
+}
+{ 
+    "country" : "United Kingdom", 
+    "code" : "GB", 
+    "capital" : "London"
+}
+{ 
+    "country" : "United States", 
+    "code" : "US", 
+    "capital" : "Washington"
+}
+{ 
+    "country" : "United States Minor Outlying Islands", 
+    "code" : "UM", 
+    "capital" : null
+}
+{ 
+    "country" : "Uruguay", 
+    "code" : "UY", 
+    "capital" : "Montevideo"
+}
+{ 
+    "country" : "Uzbekistan", 
+    "code" : "UZ", 
+    "capital" : "Toskent"
+}
+{ 
+    "country" : "Vanuatu", 
+    "code" : "VU", 
+    "capital" : "Port-Vila"
+}
+{ 
+    "country" : "Venezuela", 
+    "code" : "VE", 
+    "capital" : "Caracas"
+}
+{ 
+    "country" : "Vietnam", 
+    "code" : "VN", 
+    "capital" : "Hanoi"
+}
+{ 
+    "country" : "Virgin Islands, British", 
+    "code" : "VG", 
+    "capital" : "Road Town"
+}
+{ 
+    "country" : "Virgin Islands, U.S.", 
+    "code" : "VI", 
+    "capital" : "Charlotte Amalie"
+}
+{ 
+    "country" : "Wallis and Futuna", 
+    "code" : "WF", 
+    "capital" : "Mata-Utu"
+}
+{ 
+    "country" : "Western Sahara", 
+    "code" : "EH", 
+    "capital" : "El-Aai"
+}
+{ 
+    "country" : "Yemen", 
+    "code" : "YE", 
+    "capital" : "Sanaa"
+}
+{ 
+    "country" : "Yugoslavia", 
+    "code" : "YU", 
+    "capital" : "Beograd"
+}
+{ 
+    "country" : "Zambia", 
+    "code" : "ZM", 
+    "capital" : "Lusaka"
+}
+{ 
+    "country" : "Zimbabwe", 
+    "code" : "ZW", 
+    "capital" : "Harare"
+}
